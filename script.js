@@ -2,20 +2,24 @@ const html = document.querySelector('html');
 const botonEnfoque = document.querySelector('.app__card-button--enfoque');
 const botonCorto = document.querySelector('.app__card-button--corto');
 const botonLargo = document.querySelector('.app__card-button--largo');
+const banner = document.querySelector('.app__image')
 
 
 botonEnfoque.addEventListener('click', () => {
-    html.setAttribute('data-contexto','enfoque');
+    cambiarElContexto('enfoque')
 });
 
 botonCorto.addEventListener('click', () => {
-    html.setAttribute('data-contexto','descanso-corto');
+    cambiarElContexto('descanso-corto')
 });
 
 botonLargo.addEventListener('click', () => {
-    html.setAttribute('data-contexto','descanso-largo');
+    cambiarElContexto('descanso-largo')
 });
-
+ function cambiarElContexto(contexto){
+    html.setAttribute('data-contexto',contexto);
+    banner.setAttribute('src', `./imagenes/${contexto}.png`)
+ }
 
 
 
