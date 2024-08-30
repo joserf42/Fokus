@@ -245,26 +245,40 @@ h6 {
 /* Para Celulares */
 @media (max-width: 767px) {
     .app__section-banner-container {
-        width: 32rem;
+        display: flex;
+        padding: 0px 24px;
+        flex-direction: column;
+        align-items: center;
     }
 
     .app__title {
-        font-size: 2.6rem;
+        font-size: 26px;
     }
 
-    .app__image {
-        display: none;
-    }
 
-    .app__card {
-        width: 100%;
+
+    .app__section-card-container {
+        display: flex;
+        padding: 24px;
+        flex-direction: column;
+        align-items: center;
+        gap: 32px;
+        align-self: stretch;
     }
 
     .app__card-button {
-        font-size: small;
+        font-size: 12.5px;
+
     }
 
     .app__card-timer {
-        font-size: 6rem;
+        display: flex;
+        font-size: 5rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .app__card-primary-button {
+        width: 16rem;
     }
 }
