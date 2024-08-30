@@ -26,4 +26,13 @@ Vista Fokus 428 – Móvil
 
 # Estado del Proyecto
 
-Finalizado
+Organizando readme
+
+## Contacto
+
+Para cualquier pregunta o sugerencia, por favor contacta a jdrojas1828@gmail.com
+
+---
+
+¡Espero que esto te sea útil! Si necesitas más ayuda o quieres añadir algo específico, no dudes en decírmelo.
+
