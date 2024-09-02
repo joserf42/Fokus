@@ -16,7 +16,9 @@ https://www.figma.com/design/Gi6BDlxzWPBaeWTE654QxF/Proyecto-Fokus-(Latam)?node-
 # Imagenes
 
 Vista Fokus 1440 - Desktop
-
+![1](https://github.com/user-attachments/assets/ed77387a-ab5d-466a-9fe0-d42ef09972a0)
+![2](https://github.com/user-attachments/assets/0621ed67-07d6-4052-9fdf-446125a06740)
+![3](https://github.com/user-attachments/assets/3b890e95-f0e3-4870-82cb-d27aaa6e1885)
 
 Vista Fokus 834 – Tablet
 
