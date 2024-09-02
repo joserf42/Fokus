@@ -16,19 +16,24 @@ https://www.figma.com/design/Gi6BDlxzWPBaeWTE654QxF/Proyecto-Fokus-(Latam)?node-
 # Imagenes
 
 Vista Fokus 1440 - Desktop
-![1](https://github.com/user-attachments/assets/ed77387a-ab5d-466a-9fe0-d42ef09972a0)
-![2](https://github.com/user-attachments/assets/0621ed67-07d6-4052-9fdf-446125a06740)
-![3](https://github.com/user-attachments/assets/3b890e95-f0e3-4870-82cb-d27aaa6e1885)
+# ![1](https://github.com/user-attachments/assets/ed77387a-ab5d-466a-9fe0-d42ef09972a0)
+# ![2](https://github.com/user-attachments/assets/0621ed67-07d6-4052-9fdf-446125a06740)
+# ![3](https://github.com/user-attachments/assets/3b890e95-f0e3-4870-82cb-d27aaa6e1885)
 
 Vista Fokus 834 – Tablet
-
+# ![1ft](https://github.com/user-attachments/assets/2a270bbb-6883-4902-9c4e-19ebbb7a01e0)
+# ![2ft](https://github.com/user-attachments/assets/787d39b3-e9b2-4bba-90da-33a4b383080c)
+# ![3ft](https://github.com/user-attachments/assets/334ecf8f-0101-4b51-b629-823c956e4b3c)
 
 Vista Fokus 428 – Móvil
+# ![1fm](https://github.com/user-attachments/assets/b133fdaf-98b8-4852-aa2b-cb6cf3332304)
+# ![2fm](https://github.com/user-attachments/assets/50c1dd67-c3af-4b79-b4a3-fa158f377870)
+# ![3fm](https://github.com/user-attachments/assets/f48f44fb-a94b-41ad-984c-27334df0b8a1)
 
 
 # Estado del Proyecto
 
-Organizando readme
+Finalizado
 
 ## Contacto
 
